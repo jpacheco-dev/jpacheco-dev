@@ -8,7 +8,7 @@ Industrial Engineer with a background in software implementations, manufacturing
 - The online store and ops setup for a ceremonial matcha brand I co-founded
 - 
 ## Projects
-- **[Green Tea Trade: Japan and the US](https://github.com/jpacheco-dev/tea-import-tracker)** · [Live dashboard](PASTE-YOUR-STREAMLIT-LINK-HERE)
+- **[Green Tea Trade: Japan and the US](https://github.com/jpacheco-dev/tea-import-tracker)** · [Live dashboard]((https://tea-import-tracker.streamlit.app/))
   Tracks US green tea imports and Japan's matcha exports using three public APIs. Python pipeline, Streamlit dashboard and a GitHub Actions job that refreshes the data every day.
   
 **How I work with AI**
